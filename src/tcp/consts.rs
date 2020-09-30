@@ -1,0 +1,3 @@
+const TIMEOUT = 5;
+const MAX_SEG_SIZE = 1000;
+const INIT_SLOW_START_THRESH = 8;
